@@ -2,7 +2,6 @@ from ultralytics import YOLO
 import cv2
 import numpy as np
 
-
 def estimate_pothole_depth(width, height, image_width, image_height):
     sensor_height = 10
     average_lane_width = 3000
@@ -18,7 +17,6 @@ def estimate_pothole_depth(width, height, image_width, image_height):
     depth_meters = depth_mm / 1000
 
     return depth_meters
-
 
 model = YOLO("best.pt")
 class_names = model.names
@@ -59,11 +57,9 @@ while True:
                 if c == "street-light":
                     cv2.putText(img, "Street Light", (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
                 else:
-                    # Estimate pothole depth
                     depth = estimate_pothole_depth(width, height, focal_length, distance)
                     
-                    # Categorize pothole based on depth
-                    if depth < 0.1:  # Example depth thresholds
+                    if depth < 0.1:
                         category = "Shallow"
                     elif depth < 0.3:
                         category = "Moderate"
