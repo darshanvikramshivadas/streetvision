@@ -15,10 +15,11 @@ This project implements a **Road Pothole and Street Light Detection** model usin
 To run the detection model on an image or video, simply execute the following command:
 
 ```bash
-python test.py --input <input_path> --output <output_path>
+python test.py
 ```
 
 ![Screenshot (747)](https://github.com/user-attachments/assets/22c00cec-69c4-47a7-a047-49bd5167de43)
 ![Screenshot (748)](https://github.com/user-attachments/assets/c6662eb1-1f36-4bdb-b42e-4117b5d40ce5)
 ![Screenshot (756)](https://github.com/user-attachments/assets/82689fea-1663-4221-a810-b93753c21fbf)
-![Screenshot (750)](https://github.com/user-attachments/assets/ac4d7660-7398-49aa-804c-6ec5d6f83167)
+![Screenshot (751)](https://github.com/user-attachments/assets/addc8d4d-1789-43a2-be4a-7d6ba4b0f140)
+
