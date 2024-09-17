@@ -20,7 +20,7 @@ python test.py
 
 ![image](https://github.com/user-attachments/assets/489d47b8-f4dc-4b04-b88f-5806c0d39893)
 ![image](https://github.com/user-attachments/assets/a756e6fb-b954-4de8-8add-8ba4ab4e869b)
-![image](https://github.com/user-attachments/assets/e47e6fc3-1f4f-4cfa-9ed7-4ba817bef93b)
+![image](https://github.com/user-attachments/assets/0cc2085c-3c0f-4b8a-9199-16b6f93af11e)
 ![image](https://github.com/user-attachments/assets/629075df-b52e-4e03-a817-43230273a256)
 
 
