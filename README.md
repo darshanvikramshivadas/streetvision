@@ -17,3 +17,11 @@ To run the detection model on an image or video, simply execute the following co
 ```bash
 python test.py
 ```
+
+![image](https://github.com/user-attachments/assets/53f1d277-491a-4b95-94a0-e4d2b9ea75c1)
+![image](https://github.com/user-attachments/assets/d9fb802f-60ae-4e45-868a-d9bdd2ea95ec)
+![image](https://github.com/user-attachments/assets/2eb489bf-f590-4838-8895-3f0b7fdb93c8)
+![image](https://github.com/user-attachments/assets/fca387bc-73fd-443a-96fc-169d074052c8)
+
+
+
